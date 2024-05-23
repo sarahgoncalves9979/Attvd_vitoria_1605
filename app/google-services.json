@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595443473606",
+    "project_id": "projectzx-56f5e",
+    "storage_bucket": "projectzx-56f5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595443473606:android:3b206f63f1dab37ca04bc7",
+        "android_client_info": {
+          "package_name": "com.example.attvdvitoria1605"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVXHN8Cinml2DeMXmWfaiyqZ-n_1HE07w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
