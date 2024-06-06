@@ -4,6 +4,18 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity_cadastro_sarah3">
+    tools:context=".MainActivity_cadastro_sarah3"
+    android:background="@drawable/background"
+    >
+
+    <androidx.appcompat.widget.SearchView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="45dp" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+
+
